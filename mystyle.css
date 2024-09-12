@@ -1,7 +1,32 @@
 
 body {
-    background-color:black ;
+    
+  margin-right: 200px;
+  margin-left: 200px;
 }
-#Text {
-    color: white;
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
+h1 {
+    font-family: Cursive;
+}
+#soccer {
+   
+    width: 800px;
+}
+#Volleyball {
+    float: right;
+    height: 500px;
+}
+#Cole {
+    float: left;
+    margin: 10px;
+    height: 300px;
+}
+#College {
+    margin-bottom: 10px;
+    background-color: grey;
+    display: inline-block;
 }
